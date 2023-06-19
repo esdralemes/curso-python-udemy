@@ -1,2 +1,1 @@
-print ("Bom dia")
-print ("Boa noite")
+print("Bom dia", end="")
